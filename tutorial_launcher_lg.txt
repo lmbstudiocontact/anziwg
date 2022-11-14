@@ -3,7 +3,7 @@ At HOME:
  - Touch number keyboard with number 0 -> 9, *, # to call or save contact, message.
  - ONLY click button keyboard, not action screen home, alien.
 
-At Goto:
+At GOTO:
  - Can change wallpaper, synchronize wallpaper, or set wallpaper with shared image.
  - Edit shortcut app when choose shortcut app, it shows at HOME.
  - Hide apps if you have not seen them.
@@ -11,6 +11,6 @@ At Goto:
  - And change launcher default if you do not use our app.
  - Video tutorials for newbies, you can learn using our app.
 
-At Menu:
+At MENU:
  - Can select app with click "OK", you only can move select with function keyboard.
  - Click "Option", you can hide or add shortcut app, open app, and app information.

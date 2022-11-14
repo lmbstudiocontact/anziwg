@@ -1,5 +1,5 @@
 At HOME:
- - Long clicked 1 -> 6 open app shortcut (top view).
+ - Long click number 1 -> 6 to open app shortcut (top view).
  - Touch number keyboard with number 0 -> 9, *, # to call or save contact, message.
  - ONLY click button keyboard, not action screen home, alien.
 
